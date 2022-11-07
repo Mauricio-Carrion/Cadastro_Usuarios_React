@@ -1,5 +1,6 @@
+/* eslint-disable import/no-anonymous-default-export */
 import './Main.css'
-import Header from './Header'
+import Header from '../Header/Header'
 import React from 'react'
 
 export default props =>
